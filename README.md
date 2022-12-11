@@ -27,25 +27,39 @@ You are required to submit the following for the project:
 ### Display GUI
 > If you have Python installed on your system, you can open `gui.py` by right-clicking it. (Right-click -> Open with -> Python)
 
-![Open with Python](img/withPython.gif)
+<img src="img/withPython.gif" width="600"/>
+<br />
 
 > Using the command prompt, enter `python gui.py`. This would also display the GUI if you're in the right directory.
 
-![Open using Command Prompt](img/comprompt.gif)
+<img src="img/comprompt.gif" width="600"/>
+<br />
 
-### Use the File explorer
+### How to Use the File explorer
 > At the top left corner of your screen below the text `Team Joshua Garcia - LOL CODE Interpreter`, you'll find the `Open File` button. This button will allow you to choose a file to load in your text editor.
 
-![File Explorer](img/fileExplorer.png)
-![How to use File Explorer](img/fileExplorer.gif)
+<img src="img/fileExplorer.png" width="600"/>
+<img src="img/fileExplorer.gif" width="600"/>
+<br />
 
-- Comment
-![File Explorer](img/fileExplorer.png)
+### How to Use the Text editor
+> The Text editor is right below the File explorer button `Open File`.
+<img src="img/textEditor.png" width="400"/>
+<br />
 
-> Ins
+> You can directly write your lolcode on the text editor.
+<img src="img/simpleTextEditor.gif" width="600"/>
+<br />
 
-![Scrollbar](img/scrollbar.png)
+> You can paste it using `Ctrl+V`.
+<img src="img/pasteTextEditor.gif" width="600"/>
+<br />
 
+> Or edit the text of a chosen file.
+<img src="img/TextEditor.gif" width="600"/>
+<br />
+
+### How to Use the Lexeme Table (List of Tokens)
 > Ins
 
 ![Scrolled Profile](img/more.png)
