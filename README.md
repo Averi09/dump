@@ -65,7 +65,7 @@ You are required to submit the following for the project:
 <br />
 
 > It holds all the tokens present in your lolcode along with their labels/functions. For example, `\n` is a line delimiter. You can use this to retrace your steps.
-<img src="img/lexsam1.png" width="400"/>
+<img src="img/lexsam1.png" width="600"/>
 <br />
 
 ### How to Use the Symbol Table
@@ -78,6 +78,12 @@ You are required to submit the following for the project:
 <br />
 
 ### How to Use the Execute Button
-> hi
+> You click the Execute Button to run the lolcode displayed at the Text Editor.
+<img src="img/execute.gif" width="600"/>
+<br />
+
+> To scroll, use the scroll wheel of your mouse or on your touchpad, use two fingers to scroll up or down.
+<img src="img/scroll.gif" width="600"/>
+<br />
 
 Thank you! :smile_cat:
