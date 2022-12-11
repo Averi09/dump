@@ -27,11 +27,11 @@ You are required to submit the following for the project:
 ### Display GUI
 > If you have Python installed on your system, you can open `gui.py` by right-clicking it. (Right-click -> Open with -> Python)
 
-![Open with Python](img/open.gif)
+![Open with Python](img/withPython.gif)
 
 > Using the command prompt, enter `python gui.py`. This would also display the GUI if you're in the right directory.
 
-![Open using Command Prompt](img/comprompt.mp4)
+![Open using Command Prompt](img/comprompt.gif)
 
 - Comment
 
