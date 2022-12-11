@@ -60,8 +60,15 @@ You are required to submit the following for the project:
 <br />
 
 ### How to Use the Lexeme Table (List of Tokens)
-> Ins
+> The Lexeme table is the table on the 2nd column (the middle column) with the label `LEXEME TABLE` at the top.
+<img src="img/lexTable.png" width="400"/>
+<br />
 
-![Scrolled Profile](img/more.png)
+> It holds all the tokens present in your lolcode along with their labels/functions. For example, `\n` is a line delimiter. You can use this to retrace your steps.
+<img src="img/lexsam1.png" width="400"/>
+<br />
 
-Thank you! Goodbye :smile_cat:
+### How to Use the Symbol Table
+>
+
+Thank you! :smile_cat:
