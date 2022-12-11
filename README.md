@@ -44,7 +44,7 @@ You are required to submit the following for the project:
 
 ### How to Use the Text editor
 > The Text editor is right below the File explorer button `Open File`.
-<img src="img/textEditor.png" width="400"/>
+<img src="img/textEditor.png" width="300"/>
 <br />
 
 > You can directly write your lolcode on the text editor.
@@ -61,7 +61,7 @@ You are required to submit the following for the project:
 
 ### How to Use the Lexeme Table (List of Tokens)
 > The Lexeme table is the table on the 2nd column (the middle column) with the label `LEXEME TABLE` at the top.
-<img src="img/lexTable.png" width="400"/>
+<img src="img/lexTable.png" width="300"/>
 <br />
 
 > It holds all the tokens present in your lolcode along with their labels/functions. For example, `\n` is a line delimiter. You can use this to retrace your steps.
@@ -69,6 +69,15 @@ You are required to submit the following for the project:
 <br />
 
 ### How to Use the Symbol Table
->
+> The Symbol table holds all the declared and the implicit variables and their respective values at a given time. This is found on the rightmost column with the label `SYMBOL TABLE`.
+<img src="img/symTab.png" width="300"/>
+<br />
+
+> You can use this to check if the results are what you expected given your algorithm. For example, the `SUM OF num AN 13` is `30` saved at `sum`.
+<img src="img/symtab1.png" width="300"/>
+<br />
+
+### How to Use the Execute Button
+> hi
 
 Thank you! :smile_cat:
