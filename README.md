@@ -24,14 +24,14 @@ You are required to submit the following for the project:
 
 
 ## User Guide
-### Open GUI
-> If you have python installed in your system, you can open gui.py by right-clicking it. Right-click -> Open with -> Python
+### Display GUI
+> If you have Python installed on your system, you can open `gui.py` by right-clicking it. (Right-click -> Open with -> Python)
 
-![HomePage](img/open.mp4)
+![Open with Python](img/open.gif)
 
-> Ins
+> Using the command prompt, enter `python gui.py`. This would also display the GUI if you're in the right directory.
 
-![My Profile Page](img/profile.png)
+![Open using Command Prompt](img/comprompt.mp4)
 
 - Comment
 
