@@ -1,14 +1,19 @@
 # Project: LOLCode Interpreter
-## TEAM JOSHUA GARCIA (T-1L)
-### Zenith Averi V. Cipriano
-### Sebastian M. Villavicencio
+### TEAM JOSHUA GARCIA (T-1L)
+#### Zenith Averi V. Cipriano
+#### Sebastian M. Villavicencio
 
 # Description
 > You are to create an interpreter for the LOLCode Programming Language. The constructs required for the project are discussed [here](https://drive.google.com/file/d/1ooCMhXHBoz_SRve0uTH5VF4Y94habUld/view). The interpreter must be able to analyze each line of the program lexically, syntactically, and semantically.
 
-# Naming your App
+# Instructions
 ```
-surnameinitials_exer1_section e.g. (TANKLM_exer1_wx1).
+You are required to submit the following for the project:
+1. A .zip file (filename: <GroupName>_<section>.zip) which should contain the following:
+    a. a text file (filename: contributors.txt) that contains the name of all contributing groupmates;
+    b. a folder (filename: source code) that contains all the necessary files needed to run your project; and
+    c. a Readme.md file that contains the instructions on how to run your project. This includes the necessary dependencies, along with the instructions on how to install them.
+2. Submit your peer evaluation by filling out the form in this link.
 ```
 
 # Documentation
