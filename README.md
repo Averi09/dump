@@ -33,14 +33,14 @@ You are required to submit the following for the project:
 
 ![Open using Command Prompt](img/comprompt.gif)
 
+### Use the File explorer
+> At the top left corner of your screen below the text `Team Joshua Garcia - LOL CODE Interpreter`, you'll find the `Open File` button. This button will allow you to choose a file to load in your text editor.
+
+![File Explorer](img/fileExplorer.png)
+![How to use File Explorer](img/fileExplorer.gif)
+
 - Comment
-
-> ins
-
-![Sample Clicks](img/choose.png)
-
-- Comment
-![Test Case #1](img/test1.png)
+![File Explorer](img/fileExplorer.png)
 
 > Ins
 
