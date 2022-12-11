@@ -18,9 +18,9 @@ You are required to submit the following for the project:
 ```
 
 ## Required Dependencies
-- python
-- tkinter 
-- re
+- [python](https://www.youtube.com/watch?v=O2PzLeiBEuE)
+- [tkinter](https://www.tutorialspoint.com/how-to-install-tkinter-in-python)
+- re (built-in)
 
 
 ## User Guide
